@@ -15,8 +15,8 @@ The following **required** functionality is completed:
 The following **stretch** features are implemented:
 
 * [X] User can **see a placeholder graphic* for each movie poster during loading
-* [X] **Rounded corners* for the movie posters using Glide transformations
-* [X] Views are responsive in both **landscapde/portrait mode*
+* [X] **Rounded corners** for the movie posters using Glide transformations
+* [X] Views are responsive in both **landscapde/portrait mode**
 * [X] When a movie is selected **ratings using RatingBar, popularity and synopsis** are revealed
 * [X] User inteface is improved through **styling and coloring**
 
