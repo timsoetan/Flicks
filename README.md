@@ -19,6 +19,8 @@ The following **stretch** features are implemented:
 * [X] Views are responsive in both **landscapde/portrait mode**
 * [X] When a movie is selected **ratings using RatingBar, popularity and synopsis** are revealed
 * [X] User inteface is improved through **styling and coloring**
+* [ ] Apply the popular ButterKnife annotation library to **reduce view boilerplate**
+* [ ] Allow **video posts to be played in full-screen** using the YouTubePlayerView
 
 The following **additional** features are implemented:
 
